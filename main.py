@@ -806,19 +806,19 @@ def help():
     stdout.write("             "+Fore.LIGHTCYAN_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"layer4   "+Fore.LIGHTCYAN_EX+"|"+Fore.LIGHTWHITE_EX+" Show Layer4 Methods                    "+Fore.LIGHTCYAN_EX+"║\n")
     stdout.write("             "+Fore.LIGHTCYAN_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"tools    "+Fore.LIGHTCYAN_EX+"|"+Fore.LIGHTWHITE_EX+" Show tools                             "+Fore.LIGHTCYAN_EX+"║\n")
     stdout.write("             "+Fore.LIGHTCYAN_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"credit   "+Fore.LIGHTCYAN_EX+"|"+Fore.LIGHTWHITE_EX+" Show credit                            "+Fore.LIGHTCYAN_EX+"║\n")
-    stdout.write("             "+Fore.LIGHTCYAN_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"exit     "+Fore.LIGHTCYAN_EX+"|"+Fore.LIGHTWHITE_EX+" Exit HADOKO By Duy khai DDoS           "+Fore.LIGHTCYAN_EX+"║\n")
+    stdout.write("             "+Fore.LIGHTCYAN_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"exit     "+Fore.LIGHTCYAN_EX+"|"+Fore.LIGHTWHITE_EX+" Exit                                   "+Fore.LIGHTCYAN_EX+"║\n")
     stdout.write("             "+Fore.LIGHTCYAN_EX            +"╠═════════════════════════════════════════════════════╣\n")
-    stdout.write("             "+Fore.LIGHTCYAN_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"THANK    "+Fore.LIGHTCYAN_EX+"|"+Fore.LIGHTWHITE_EX+" Thanks for using HADOKI                "+Fore.LIGHTCYAN_EX+"║\n")
-    stdout.write("             "+Fore.LIGHTCYAN_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"YOU♥     "+Fore.LIGHTCYAN_EX+"|"+Fore.LIGHTWHITE_EX+" By PDK ho tro 0347959824/adm duy khai  "+Fore.LIGHTCYAN_EX+"║\n")
-    stdout.write("             "+Fore.LIGHTCYAN_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"github   "+Fore.LIGHTCYAN_EX+"|"+Fore.LIGHTWHITE_EX+" https://github.com/Phanduykhai         "+Fore.LIGHTCYAN_EX+"║\n")
+    stdout.write("             "+Fore.LIGHTCYAN_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"THANK    "+Fore.LIGHTCYAN_EX+"|"+Fore.LIGHTWHITE_EX+" Thanks for using                       "+Fore.LIGHTCYAN_EX+"║\n")
+    stdout.write("             "+Fore.LIGHTCYAN_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"YOU♥     "+Fore.LIGHTCYAN_EX+"|"+Fore.LIGHTWHITE_EX+" By 71l0k1                              "+Fore.LIGHTCYAN_EX+"║\n")
+    stdout.write("             "+Fore.LIGHTCYAN_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"github   "+Fore.LIGHTCYAN_EX+"|"+Fore.LIGHTWHITE_EX+" https://github.com/71l0k1              "+Fore.LIGHTCYAN_EX+"║\n")
     stdout.write("             "+Fore.LIGHTCYAN_EX            +"╚═════════════════════════════════════════════════════╝\n")
     stdout.write("\n")
 ##############################################################################################
 def credit():
     stdout.write("\x1b[38;2;0;236;250m════════════════════════╗\n")
-    stdout.write("\x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX   +"Developer "+Fore.RED+": \x1b[38;2;0;255;189mHyuk\n")
-    stdout.write("\x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX   +"UI Design "+Fore.RED+": \x1b[38;2;0;255;189mYone不\n")
-    stdout.write("\x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX   +"Methods/Tools "+Fore.RED+": \x1b[38;2;0;255;189mSkyWtkh\n")
+    stdout.write("\x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX   +"Developer "+Fore.RED+": \x1b[38;2;0;255;189m71l0k1\n")
+    stdout.write("\x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX   +"UI Design "+Fore.RED+": \x1b[38;2;0;255;189m71l0k1\n")
+    stdout.write("\x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX   +"Methods/Tools "+Fore.RED+": \x1b[38;2;0;255;189m71l0k1\n")
     stdout.write("\x1b[38;2;0;236;250m════════════════════════╝\n")
     stdout.write("\n")    
 ##############################################################################################
@@ -843,10 +843,8 @@ def layer7():
     stdout.write("            "+Fore.LIGHTCYAN_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"post   "+Fore.LIGHTCYAN_EX+" |"+Fore.LIGHTWHITE_EX+" Post Request Attack                      "+Fore.LIGHTCYAN_EX+"║\n")
     stdout.write("            "+Fore.LIGHTCYAN_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"head   "+Fore.LIGHTCYAN_EX+" |"+Fore.LIGHTWHITE_EX+" Head Request Attack                      "+Fore.LIGHTCYAN_EX+"║\n")
     stdout.write("            "+Fore.LIGHTCYAN_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"pps    "+Fore.LIGHTCYAN_EX+" |"+Fore.LIGHTWHITE_EX+" Only GET / HTTP/1.1                      "+Fore.LIGHTCYAN_EX+"║\n")
-    
     stdout.write("            "+Fore.LIGHTCYAN_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"spoof  "+Fore.LIGHTCYAN_EX+" |"+Fore.LIGHTWHITE_EX+" HTTP Spoof Socket Attack                 "+Fore.LIGHTCYAN_EX+"║\n")
     stdout.write("            "+Fore.LIGHTCYAN_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"pxspoof"+Fore.LIGHTCYAN_EX+" |"+Fore.LIGHTWHITE_EX+" HTTP Spoof Socket Attack With Proxy      "+Fore.LIGHTCYAN_EX+"║\n")
-    
     stdout.write("            "+Fore.LIGHTCYAN_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"soc    "+Fore.LIGHTCYAN_EX+" |"+Fore.LIGHTWHITE_EX+" Socket Attack                            "+Fore.LIGHTCYAN_EX+"║\n")
     stdout.write("            "+Fore.LIGHTCYAN_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"pxraw  "+Fore.LIGHTCYAN_EX+" |"+Fore.LIGHTWHITE_EX+" Proxy Request Attack                     "+Fore.LIGHTCYAN_EX+"║\n")
     stdout.write("            "+Fore.LIGHTCYAN_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"pxsoc  "+Fore.LIGHTCYAN_EX+" |"+Fore.LIGHTWHITE_EX+" Proxy Socket Attack                      "+Fore.LIGHTCYAN_EX+"║\n")
@@ -884,17 +882,17 @@ def title():
     stdout.write("                                                                                                          \n")
 
 
-    stdout.write("             "+Fore.LIGHTCYAN_EX   +"                                   ░▒▓█N͎Q͎H͎█▓▒░                         \n")
-    stdout.write("             "+Fore.LIGHTCYAN_EX   +"                                                                     \n")
-    stdout.write("             "+Fore.LIGHTCYAN_EX   +"                            ╦ ╦ ╔═╗ ╔═╗ ╔╦╗╔═╗╔═╗╦  ╔═╗                \n")         
-    stdout.write("             "+Fore.LIGHTCYAN_EX   +"                            ╠═╣ ╠═╣ ║ ║  ║ ║ ║║ ║║  ╚═╗                \n")
-    stdout.write("             "+Fore.LIGHTCYAN_EX   +"                            ╩ ╩ ╩ ╩ ╚═╝  ╩ ╚═╝╚═╝╩═╝╚═╝                \n")
+    stdout.write("             "+Fore.LIGHTCYAN_EX   +"                                   71l0k1                              \n")
+    stdout.write("             "+Fore.LIGHTCYAN_EX   +"                                                                       \n")
+    stdout.write("             "+Fore.LIGHTCYAN_EX   +"                             ╔╦╗╔═╗╔═╗╦  ╔═╗                           \n")         
+    stdout.write("             "+Fore.LIGHTCYAN_EX   +"                              ║ ║ ║║ ║║  ╚═╗                           \n")
+    stdout.write("             "+Fore.LIGHTCYAN_EX   +"                              ╩ ╚═╝╚═╝╩═╝╚═╝                           \n")
     stdout.write("             "+Fore.LIGHTCYAN_EX +"                       ══╦═════════════════════════════════╦══           \n")
     stdout.write("             "+Fore.LIGHTCYAN_EX+"               ╔═════════╩═════════════════════════════════╩═════════╗\n")
     stdout.write("             "+Fore.LIGHTCYAN_EX+"               ║                    CFB ĐỂ DDOS                      ║\n")
     stdout.write("             "+Fore.LIGHTCYAN_EX+"               ║ nhap [help] to see the Commands                     ║\n")
     stdout.write("             "+Fore.LIGHTCYAN_EX+"               ║                                                     ║\n")
-    stdout.write("             "+Fore.LIGHTCYAN_EX+"               ║ Copyright @ 2022 HAO TOOL                           ║\n")
+    stdout.write("             "+Fore.LIGHTCYAN_EX+"               ║ Copyright @ 2022 71l0k1 Tool                        ║\n")
     stdout.write("             "+Fore.LIGHTCYAN_EX+"               ║                                                     ║\n")
     stdout.write("             "+Fore.LIGHTCYAN_EX+"               ║  PLAYER 4/7                                         ║\n")
     stdout.write("             "+Fore.LIGHTCYAN_EX+"               ║                                                     ║\n")
@@ -902,7 +900,7 @@ def title():
     stdout.write("\n")
 ##############################################################################################
 def command():
-    stdout.write(Fore.LIGHTCYAN_EX+"╔═══"+Fore.LIGHTCYAN_EX+"[""root"+Fore.LIGHTGREEN_EX+"@"+Fore.LIGHTCYAN_EX+"Karma"+Fore.CYAN+"]"+Fore.LIGHTCYAN_EX+"\n╚══\x1b[38;2;0;255;189m> "+Fore.WHITE)
+    stdout.write(Fore.LIGHTCYAN_EX+"╔═══"+Fore.LIGHTCYAN_EX+"[""root"+Fore.LIGHTGREEN_EX+"@"+Fore.LIGHTCYAN_EX+"71l0k1"+Fore.CYAN+"]"+Fore.LIGHTCYAN_EX+"\n╚══\x1b[38;2;0;255;189m> "+Fore.WHITE)
     command = input()
     if command == "cls" or command == "clear":
         clear()
